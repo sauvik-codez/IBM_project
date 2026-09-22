@@ -1,4 +1,4 @@
-# Addiction Population Data — Predictive Modelling
+# Addiction Analysis — Predictive Modelling
 
 A machine-learning project that uses the `addiction_population_data.csv` dataset (3 000 individuals, 25 features) to:
 
